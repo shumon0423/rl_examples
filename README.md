@@ -17,6 +17,7 @@ conda create -n rl_examples python=3.9
 conda activate rl_examples
 pip install numpy matplotlib gymnasium
 pip install stable-baselines3[extra]
+```
 
 ## 🧪 Files
 
